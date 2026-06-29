@@ -1,0 +1,15 @@
+.venv/
+.venv_tabddpm/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Large/local datasets
+data/raw/*.csv
+data/processed/*.csv
+
+# Generated artifacts
+outputs/
+models/
+figures/
+notebooks/catboost_info/
