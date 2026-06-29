@@ -458,10 +458,4 @@ and run the notebook.
 
 This project uses the National Survey of Children's Health 2023-2024 structure and codebook. Follow NSCH/CAHMI data-use and citation guidance when publishing results.
 
-## Author
 
-Deep Kumar Ghosh
-
-## Disclaimer
-
-This repository is for research, education, and methodological experimentation. Predictions from this project should not be used for medical diagnosis, clinical decision-making, or treatment planning.
